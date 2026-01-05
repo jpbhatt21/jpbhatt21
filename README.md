@@ -42,27 +42,6 @@ I'm a **Full Stack Developer** passionate about building scalable applications w
 - [**Oracle Cloud Infrastructure Architect Associate (1Z0-1072-25)**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=394BA2CB167B6966D391F3BADFF9DF64A22E3FFFD0FCB5B85F6FCF81D2F8E4B8)
 
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpbhatt21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbhatt21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpbhatt21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpbhatt21&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jpbhatt21&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
 
 ## Let's Connect
 
