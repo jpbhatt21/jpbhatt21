@@ -22,7 +22,6 @@ I'm a **Full Stack Developer** passionate about building scalable applications w
 
 ### Backend
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### Databases
 ![NocoDB](https://img.shields.io/badge/-NocoDB-4338CA?style=flat-square&logo=nocodb&logoColor=white)
